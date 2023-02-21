@@ -1,0 +1,17 @@
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/WebAPIClient
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/WebAPIClient.deps.json
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/WebAPIClient.runtimeconfig.json
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/WebAPIClient.dll
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/WebAPIClient.pdb
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfo.cs
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CopyComplete
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.dll
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/refint/WebAPIClient.dll
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.pdb
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/WebAPIClient.genruntimeconfig.cache
+/Users/jeansuh/Documents/API/classwork5/WebAPIClient/obj/Debug/net7.0/ref/WebAPIClient.dll

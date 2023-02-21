@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMQRwtaQph28FlmSU1XKx4SbtBswv3BTNJUfX7GgV+ks+/OkWPz6nryzhaXYcsQWL40w7kKF7WcFe3PtRRkPRw==",
+  "success": true,
+  "projectFilePath": "/Users/jeansuh/Documents/API/classwork5/WebAPIClient/WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeansuh/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
